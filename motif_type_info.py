@@ -1,3 +1,4 @@
+import os, re, time,
 most_occ_envs = {'S:1': 'Single_neighbor', 'L:2': 'Linear', 'A:2': 'Angular', 'TL:3': 'Trigonal_plane',
 
                       'TY:3': 'Trigonal_non-coplanar', 'TS:3': 'T-shaped', 'T:4': 'Tetrahedron', 'S:4': 'Square_plane',
